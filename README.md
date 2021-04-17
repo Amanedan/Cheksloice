@@ -1,5 +1,6 @@
 # Cheksloice
- just a bunch of small beginner projects.
+ just a bunch of beginner projects.
+
 
 #list of projects
 
