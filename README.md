@@ -5,7 +5,6 @@
 #list of projects
 
 -Guess the number
-	
-
+-Simple Banking App
 
 Amanedan
